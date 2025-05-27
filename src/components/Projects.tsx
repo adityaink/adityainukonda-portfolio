@@ -9,7 +9,7 @@ const Projects = () => {
     {
       title: "Mini PhotoBooth App",
       description: "Developed a full-featured photo booth application that allows users to take, customize, and download pictures. Built with interactive UI and smooth user experience.",
-      image: "https://images.unsplash.com/photo-1551021794-03be4ddaf67d?w=500&h=300&fit=crop",
+      image: "https://images.unsplash.com/photo-1556570836-1b2c15b33119?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGhvdG9ib290aHxlbnwwfHwwfHx8MA%3D%3D",
       technologies: ["JavaScript", "HTML/CSS", "Git", "Firebase", "Netlify"],
       github: "#",
       demo: "#",
