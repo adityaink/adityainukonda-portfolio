@@ -38,18 +38,18 @@ const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Get In Touch</h4>
             <div className="space-y-2 text-gray-400">
-              <p>adityasriinukonda@gmail.com</p>
+              <p>adityainukonda@gmail.com</p>
               <p>571-733-1404</p>
-              <p>Fairfax, VA</p>
+              <p>Aldie, VA</p>
             </div>
             <div className="flex space-x-4 mt-4">
-              <a href="https://github.com/adityasri" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://github.com/adityaink" className="text-gray-400 hover:text-white transition-colors">
                 <Github className="h-5 w-5" />
               </a>
               <a href="https://linkedin.com/in/aditya-sri-inukonda" className="text-gray-400 hover:text-white transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
-              <a href="mailto:adityasriinukonda@gmail.com" className="text-gray-400 hover:text-white transition-colors">
+              <a href="mailto:adityainukonda@gmail.com" className="text-gray-400 hover:text-white transition-colors">
                 <Mail className="h-5 w-5" />
               </a>
             </div>
@@ -58,7 +58,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 flex items-center justify-center gap-2">
-            Made with <Heart className="h-4 w-4 text-red-500" /> by Aditya Sri Inukonda © 2024
+            Made by Aditya Inukonda
           </p>
         </div>
       </div>

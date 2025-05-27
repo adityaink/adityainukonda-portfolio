@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="animate-fade-in">
           <img
-            src="/lovable-uploads/b4ceb2fd-3892-441e-acae-a7e093a518ec.png"
+            src="/lovable-uploads/IMG_4752.JPG"
             alt="Aditya Sri Inukonda Profile"
             className="w-32 h-32 rounded-full mx-auto mb-8 border-4 border-pink-200 shadow-lg object-cover"
           />
