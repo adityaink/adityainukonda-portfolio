@@ -52,7 +52,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-gray-800">Location</p>
-                  <p className="text-gray-600">Fairfax, VA</p>
+                  <p className="text-gray-600">Aldie, VA</p>
                 </div>
               </div>
             </div>
@@ -101,14 +101,6 @@ const Contact = () => {
         {/* Call to Action */}
         <div className="text-center mt-16">
           <div className="bg-white rounded-2xl p-8 shadow-lg max-w-2xl mx-auto border-pink-300">
-            <h3 className="text-2xl font-semibold text-gray-800 mb-4">Ready to work together?</h3>
-            <p className="text-gray-600 mb-6">
-              I'm currently available for new opportunities and exciting projects. 
-              Let's discuss how we can bring your ideas to life!
-            </p>
-            <Button className="bg-pink-400 hover:bg-pink-500 text-white px-8 py-3 rounded-full">
-              Schedule a Call
-            </Button>
           </div>
         </div>
       </div>
