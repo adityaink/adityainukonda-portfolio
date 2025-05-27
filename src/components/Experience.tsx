@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 const Experience = () => {
   const experiences = [
     {
-      company: "Personal Startup",
+      company: "Savr",
       position: "Founder/Software Developer",
       duration: "Jan 2025 - Present",
       location: "Aldie, VA",
