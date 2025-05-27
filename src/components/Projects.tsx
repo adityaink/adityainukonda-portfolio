@@ -43,7 +43,7 @@ const Projects = () => {
       featured: false
     },
     {
-      title: "Food Delivery Platform",
+      title: "Savr- Food Delivery Platform",
       description: "Currently developing a specialized food delivery platform for Indian restaurants with optimized route planning and local driver integration.",
       image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500&h=300&fit=crop",
       technologies: ["React Native", "Node.js", "PostgreSQL", "Route Optimization"],
