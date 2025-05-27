@@ -6,7 +6,7 @@ const Hero = () => {
   const handleResumeDownload = () => {
     // Create a link element to trigger download
     const link = document.createElement('a');
-    link.href = '/lovable-uploads/b4ceb2fd-3892-441e-acae-a7e093a518ec.png'; // You can replace this with your actual resume PDF
+    link.href = '/lovable-uploads/Aditya_Resume.pdf'; // You can replace this with your actual resume PDF
     link.download = 'Aditya_Sri_Inukonda_Resume.pdf';
     document.body.appendChild(link);
     link.click();
@@ -50,13 +50,13 @@ const Hero = () => {
           </div>
           
           <div className="flex justify-center space-x-6">
-            <a href="https://github.com/adityasri" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
+            <a href="https://github.com/adityaink" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
               <Github className="h-8 w-8" />
             </a>
-            <a href="https://linkedin.com/in/aditya-sri-inukonda" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
+            <a href="https://www.linkedin.com/in/aditya-sri-inukonda/" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
               <Linkedin className="h-8 w-8" />
             </a>
-            <a href="mailto:adityasriinukonda@gmail.com" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
+            <a href="mailto:adityainukonda@gmail.com" className="text-gray-500 hover:text-pink-400 transition-colors duration-300">
               <Mail className="h-8 w-8" />
             </a>
           </div>
