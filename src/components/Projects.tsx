@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: "Rewards Program System",
       description: "Implemented a comprehensive customer rewards program with REST API integration. Utilized PostgreSQL for secure data storage and created user authentication system.",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
+      image: "https://plus.unsplash.com/premium_photo-1683749808421-bf411cb88f20?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cmV3YXJkfGVufDB8fDB8fHww",
       technologies: ["Java", "PostgreSQL", "Springboot", "Splunk", "JMeter"],
       github: "#",
       demo: "#",
@@ -27,7 +27,7 @@ const Projects = () => {
     {
       title: "Netflix Movie Recommender AI",
       description: "Processed 500+ films from TMDB database using cosine similarity to recommend movies based on features like genre, title, and cast. Created intelligent recommendation engine.",
-      image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=500&h=300&fit=crop",
+      image: "https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5..v1582751026.png",
       technologies: ["Python", "Kaggle", "NumPy", "Streamlit"],
       github: "#",
       demo: "#",
