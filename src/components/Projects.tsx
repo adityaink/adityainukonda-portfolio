@@ -36,7 +36,7 @@ const Projects = () => {
     {
       title: "Real-time Stock Monitor",
       description: "Built during Citi internship - real-time stock monitoring system that tracks 3,600+ Dow Jones prices per hour with live updates every 5 seconds.",
-      image: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=500&h=300&fit=crop",
+      image: "https://international.schwab.com/sites/g/files/eyrktu651/files/UnderstandingStocks.jpg",
       technologies: ["Java", "JavaFX", "Gradle", "Yahoo API"],
       github: "#",
       demo: "#",
@@ -45,7 +45,7 @@ const Projects = () => {
     {
       title: "Savr- Food Delivery Platform",
       description: "Currently developing a specialized food delivery platform for Indian restaurants with optimized route planning and local driver integration.",
-      image: "/lovable-uploads/public/lovable-uploads/dan-gold-4_jhDO54BYg-unsplash.jpg",
+      image: "https://anindianzaika.com/wp-content/uploads/2023/07/Top-Indian-Restaurant-For-Lunch-Specials-In-Niagara-Falls-NY.jpg",
       technologies: ["React Native", "Node.js", "PostgreSQL", "Route Optimization"],
       github: "#",
       demo: "#",
