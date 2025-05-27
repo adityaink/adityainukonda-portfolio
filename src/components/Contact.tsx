@@ -21,8 +21,7 @@ const Contact = () => {
           <div>
             <h3 className="text-2xl font-semibold text-gray-800 mb-6">Let's Connect</h3>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              Whether you're looking for a developer to join your team, have a project in mind, 
-              or just want to network, I'd love to hear from you. Here's how you can reach me:
+              Here's how you can reach me!
             </p>
             
             <div className="space-y-4">
@@ -42,7 +41,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <p className="font-semibold text-gray-800">Phone</p>
-                  <p className="text-gray-600">571-733-1404</p>
+                  <p className="text-gray-600">571-733-1493</p>
                 </div>
               </div>
               
