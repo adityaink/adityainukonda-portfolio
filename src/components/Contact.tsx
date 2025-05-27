@@ -99,10 +99,6 @@ const Contact = () => {
         </div>
 
         {/* Call to Action */}
-        <div className="text-center mt-16">
-          <div className="bg-white rounded-2xl p-8 shadow-lg max-w-2xl mx-auto border-pink-300">
-          </div>
-        </div>
       </div>
     </section>
   );
