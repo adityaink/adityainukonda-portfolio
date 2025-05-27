@@ -43,7 +43,7 @@ const Projects = () => {
       featured: false
     },
     {
-      title: "Savr- Food Delivery Platform",
+      title: "Savr - Food Delivery Platform",
       description: "Currently developing a specialized food delivery platform for Indian restaurants with optimized route planning and local driver integration.",
       image: "https://anindianzaika.com/wp-content/uploads/2023/07/Top-Indian-Restaurant-For-Lunch-Specials-In-Niagara-Falls-NY.jpg",
       technologies: ["React Native", "Node.js", "PostgreSQL", "Route Optimization"],
@@ -54,7 +54,7 @@ const Projects = () => {
     {
       title: "Credit Risk Assessment Tool",
       description: "Machine learning-based tool for credit risk assessment with real-time data visualization, built during Wells Fargo internship with comprehensive ERD design.",
-      image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+      image: "https://defisolutions.com/wp-content/uploads/growth-1.png",
       technologies: ["Java", "Machine Learning", "ERD", "IntelliJ"],
       github: "#",
       demo: "#",
