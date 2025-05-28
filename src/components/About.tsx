@@ -1,5 +1,5 @@
 
-import { Code, Lightbulb, Users, Zap } from 'lucide-react';
+import { Brain, Code, Database, Lightbulb, Users, Zap } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 const About = () => {
@@ -22,6 +22,16 @@ const About = () => {
     {
       icon: Zap,
       title: "Problem Solver",
+      description: "Strong analytical skills with focus on optimization and efficiency"
+    },
+    {
+      icon: Database,
+      title: "Database Management",
+      description: "Strong analytical skills with focus on optimization and efficiency"
+    },
+    {
+      icon: Brain,
+      title: "AI & Data Science Enthusiast",
       description: "Strong analytical skills with focus on optimization and efficiency"
     }
   ];
