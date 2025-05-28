@@ -11,9 +11,6 @@ const Contact = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-800 mb-4">Get In Touch</h2>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology.
-          </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-12">

@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8">
           {/* Brand */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Aditya Sri Inukonda</h3>
+            <h3 className="text-xl font-bold mb-4">Aditya Inukonda</h3>
             <p className="text-gray-400 leading-relaxed">
               Software Developer passionate about creating innovative solutions 
               and building scalable applications. Recent CS graduate ready to make an impact.
