@@ -29,7 +29,7 @@ const Navigation = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex justify-between items-center h-16">
           <a href="#" className="text-xl font-bold text-gray-800">
-            Aditya Sri Inukonda
+            Aditya Inukonda
           </a>
 
           {/* Desktop Navigation */}
