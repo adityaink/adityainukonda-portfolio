@@ -39,10 +39,6 @@ const About = () => {
         </div>
         
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
-          <div>
-            <h3 className="text-2xl font-semibold text-gray-800 mb-6">My Journey</h3>
-          </div>
-          
           <div className="grid grid-cols-2 gap-6">
             {highlights.map((highlight, index) => (
               <Card key={index} className="hover:shadow-lg transition-all duration-300 border-pink-300 bg-white hover:scale-105">
