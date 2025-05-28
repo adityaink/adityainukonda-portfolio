@@ -39,21 +39,21 @@ const About = () => {
         </div>
         
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
-          <div>
+          {/* <div>
             <h3 className="text-2xl font-semibold text-gray-800 mb-6">My Journey</h3>
-            <p className="text-gray-600 mb-4 leading-relaxed">
+            {/* <p className="text-gray-600 mb-4 leading-relaxed">
               As a recent graduate from George Mason University, I've developed expertise in 
               full-stack development, machine learning, and software engineering. My experience 
               spans from founding a personal startup focused on food delivery optimization to 
               working as a software engineer intern at major financial institutions.
-            </p>
-            <p className="text-gray-600 leading-relaxed">
+            </p> */}
+            {/* <p className="text-gray-600 leading-relaxed">
               I'm particularly passionate about creating efficient, user-centered solutions 
               and have experience in everything from real-time data visualization to mobile 
               app development. I thrive in collaborative environments and enjoy teaching 
               and mentoring others.
-            </p>
-          </div>
+            </p> */}
+          </div> */}
           
           <div className="grid grid-cols-2 gap-6">
             {highlights.map((highlight, index) => (
