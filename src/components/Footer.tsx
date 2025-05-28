@@ -40,7 +40,6 @@ const Footer = () => {
             <div className="space-y-2 text-gray-400">
               <p>adityainukonda@gmail.com</p>
               <p>571-733-1493</p>
-              <p>Aldie, VA</p>
             </div>
             <div className="flex space-x-4 mt-4">
               <a href="https://github.com/adityaink" className="text-gray-400 hover:text-white transition-colors">

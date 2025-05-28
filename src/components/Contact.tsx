@@ -45,7 +45,7 @@ const Contact = () => {
                 </div>
               </div>
               
-              <div className="flex items-center gap-4">
+              {/* <div className="flex items-center gap-4">
                 <div className="bg-pink-200 p-3 rounded-full">
                   <MapPin className="h-6 w-6 text-pink-500" />
                 </div>
@@ -53,7 +53,7 @@ const Contact = () => {
                   <p className="font-semibold text-gray-800">Location</p>
                   <p className="text-gray-600">Aldie, VA</p>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
 
